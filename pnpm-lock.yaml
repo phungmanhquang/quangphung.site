@@ -164,9 +164,6 @@ catalogs:
     '@vueuse/core':
       specifier: ^14.3.0
       version: 14.3.0
-    d3-hierarchy:
-      specifier: ^3.1.2
-      version: 3.1.2
     d3-shape:
       specifier: ^3.2.0
       version: 3.2.0
@@ -210,9 +207,6 @@ catalogs:
       specifier: ^0.0.0
       version: 0.0.0
   types:
-    '@types/d3-hierarchy':
-      specifier: ^3.1.7
-      version: 3.1.7
     '@types/d3-shape':
       specifier: ^3.1.8
       version: 3.1.8
@@ -254,9 +248,6 @@ importers:
       '@vueuse/core':
         specifier: catalog:frontend
         version: 14.3.0(vue@3.5.34(typescript@6.0.3))
-      d3-hierarchy:
-        specifier: catalog:frontend
-        version: 3.1.2
       d3-shape:
         specifier: catalog:frontend
         version: 3.2.0
@@ -324,9 +315,6 @@ importers:
       '@shikijs/twoslash':
         specifier: catalog:build
         version: 4.1.0(typescript@6.0.3)
-      '@types/d3-hierarchy':
-        specifier: catalog:types
-        version: 3.1.7
       '@types/d3-shape':
         specifier: catalog:types
         version: 3.1.8
@@ -1772,9 +1760,6 @@ packages:
   '@tybys/wasm-util@0.10.1':
     resolution: {integrity: sha512-9tTaPJLSiejZKx+Bmog4uSubteqTvFrVrURwkmHixBo0G4seD0zUxp98E1DzUBJxLQ3NPwXrGKDiVjwx/DpPsg==}
 
-  '@types/d3-hierarchy@3.1.7':
-    resolution: {integrity: sha512-tJFtNoYBtRtkNysX1Xq4sxtjK8YgoWUNpIiUee0/jHGRwqvzYxkq0hGVbbOGSz+JgFxxRu4K8nb3YpG3CMARtg==}
-
   '@types/d3-path@3.1.1':
     resolution: {integrity: sha512-VMZBYyQvbGmWyWVea0EHs/BwLgxc+MKi1zLDCONksozI4YJMcTt8ZEuIR4Sb1MMTE8MMW49v0IwI5+b7RmfWlg==}
 
@@ -2501,10 +2486,6 @@ packages:
 
   csstype@3.2.3:
     resolution: {integrity: sha512-z1HGKcYy2xA8AGQfwrn0PAy+PB7X/GSj3UVJW9qKyn43xWa+gl5nXmU4qqLMRzWVLFC8KusUX8T/0kCiOYpAIQ==}
-
-  d3-hierarchy@3.1.2:
-    resolution: {integrity: sha512-FX/9frcub54beBdugHjDCdikxThEqjnR93Qt7PvQTOHxyiNCAlvMrHhclk3cD5VeAaq9fxmfRp+CnWw9rEMBuA==}
-    engines: {node: '>=12'}
 
   d3-path@3.1.0:
     resolution: {integrity: sha512-p3KP5HCf/bvjBSSKuXid6Zqijx7wIfNW+J/maPs+iwR35at5JCbLUT0LzF1cnjbCHWhqzQTIN2Jpe8pRebIEFQ==}
@@ -5603,8 +5584,6 @@ snapshots:
       tslib: 2.8.1
     optional: true
 
-  '@types/d3-hierarchy@3.1.7': {}
-
   '@types/d3-path@3.1.1': {}
 
   '@types/d3-shape@3.1.8':
@@ -6478,8 +6457,6 @@ snapshots:
       lru-cache: 11.3.3
 
   csstype@3.2.3: {}
-
-  d3-hierarchy@3.1.2: {}
 
   d3-path@3.1.0: {}
 
