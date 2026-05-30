@@ -1,22 +1,22 @@
 ---
-title: Podcasts - Anthony Fu
+title: Podcasts - Phùng Mạnh Quảng
 display: ''
 art: plum
 items:
-  - title: 'Exploring Vitesse with Anthony Fu - Views on Vue #144'
+  - title: 'Exploring Vitesse with Phùng Mạnh Quảng - Views on Vue #144'
     date: '2021-03-02'
     path: 'https://viewsonvue.com/144'
     radio: true
-  - title: 'Shaving Yaks with Anthony Fu - Enjoy the Vue #62'
+  - title: 'Shaving Yaks with Phùng Mạnh Quảng - Enjoy the Vue #62'
     date: '2021-05-24'
     path: 'https://enjoythevue.io/episodes/62'
     radio: true
-  - title: 'Anthony Fu 线上访谈 - Vue Shenzhen Meetup '
+  - title: 'Phùng Mạnh Quảng 线上访谈 - Vue Shenzhen Meetup '
     date: '2021-11-02'
     path: 'https://www.bilibili.com/video/BV1jL4y1q76J'
     lang: 'zh'
     video: true
-  - title: '跟 Anthony Fu 聊聊全职开源和他的故事 - ByteTalk #6'
+  - title: '跟 Phùng Mạnh Quảng 聊聊全职开源和他的故事 - ByteTalk #6'
     date: '2021-12-09'
     path: 'https://bytetalk.fm/posts/episode-6/'
     lang: 'zh'
@@ -34,7 +34,7 @@ items:
     path: 'https://devtools.fm/episode/25'
     video: true
     radio: true
-  - title: 'Vue 和 NuxtLabs 核心成员 Anthony Fu 的开源人生 - funnyCoder #4'
+  - title: 'Vue 和 NuxtLabs 核心成员 Phùng Mạnh Quảng 的开源人生 - funnyCoder #4'
     date: '2022-03-07'
     path: 'https://www.bilibili.com/video/BV1eS4y1S7zB'
     lang: 'zh'
@@ -54,7 +54,7 @@ items:
     path: 'https://www.youtube.com/watch?v=6tSqIW2ds1Y'
     lang: 'en'
     video: true
-  - title: 'Vitest and VueUse with Anthony Fu - PodRocket'
+  - title: 'Vitest and VueUse with Phùng Mạnh Quảng - PodRocket'
     date: '2022-09-09'
     path: 'https://podrocket.logrocket.com/vitest-and-vueuse'
     lang: 'en'
@@ -84,22 +84,22 @@ items:
     path: 'https://www.youtube.com/watch?v=FFDMsoVG3R8'
     lang: 'zh'
     video: true
-  - title: 'Anthony Fu - TechniCality'
+  - title: 'Phùng Mạnh Quảng - TechniCality'
     date: '2023-07-22'
     path: 'https://fm.cali.so/64bb61a2d0844ea8123acc7f'
     lang: 'zh'
     video: true
     radio: true
-  - title: '和 Anthony Fu 聊技术开源、共建协作和前端思考 - Web Worker'
+  - title: '和 Phùng Mạnh Quảng 聊技术开源、共建协作和前端思考 - Web Worker'
     date: '2023-10-20'
     path: 'https://podcast.webworker.tech/38'
     lang: 'zh'
     radio: true
-  - title: "Vitest with Anthony Fu - At Artem's"
+  - title: "Vitest with Phùng Mạnh Quảng - At Artem's"
     date: '2024-02-14'
     path: 'https://youtu.be/5y8pgwd4Des'
     video: true
-  - title: 'Nuxt JS with Anthony Fu - Software Engineering Daily'
+  - title: 'Nuxt JS with Phùng Mạnh Quảng - Software Engineering Daily'
     date: '2024-05-08'
     path: 'https://softwareengineeringdaily.com/2024/05/08/nuxt-js-with-anthony-fu/'
     radio: true
@@ -129,7 +129,7 @@ items:
     date: '2025-03-17'
     lang: 'zh'
     radio: true
-  - title: 'Moving to ESM from CJS with Anthony Fu - PodRocket'
+  - title: 'Moving to ESM from CJS with Phùng Mạnh Quảng - PodRocket'
     path: 'https://podrocket.logrocket.com/moving-to-esm-from-cjs-anthony-fu'
     date: '2025-03-20'
     lang: 'en'
@@ -144,7 +144,7 @@ items:
     date: '2025-03-30'
     lang: 'zh'
     radio: true
-  - title: '开源甄选的"带货"哲学：Anthony Fu Fund与前端江湖 - Web Worker'
+  - title: '开源甄选的"带货"哲学：Phùng Mạnh Quảng Fund与前端江湖 - Web Worker'
     path: 'https://www.xiaoyuzhoufm.com/episode/67ed46f0f9578163d6a247ac'
     date: '2025-04-03'
     lang: 'zh'
@@ -174,7 +174,7 @@ items:
     date: '2025-05-12'
     lang: 'zh'
     radio: true
-  - title: '和 Anthony Fu 讨论 Vite, Vitest, Vue, 法国经历。以及 React 大战 - AsyncTalk EP45'
+  - title: '和 Phùng Mạnh Quảng 讨论 Vite, Vitest, Vue, 法国经历。以及 React 大战 - AsyncTalk EP45'
     path: 'https://asynctalk.com/posts/ep45'
     date: '2025-05-18'
     lang: 'zh'

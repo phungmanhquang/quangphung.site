@@ -4,7 +4,7 @@
     consider sponsor me and the ecosystem to help Open Source sustainable. Thank you!
   </p>
 
-  <p flex="~ gap-2 wrap items-center">
+  <!-- <p flex="~ gap-2 wrap items-center">
     <SponsorButtonCollective />
     <span op50 text-sm>
       <a href="/posts/sponsorship-forwarding" target="_blank">How does this work?</a>
@@ -12,7 +12,7 @@
   </p>
   <p flex="~ gap-2 wrap">
     <a
-      href="https://github.com/sponsors/antfu"
+      href="https://github.com/sponsors/phungmanhquang"
       target="_blank"
       class="group btn-rose inline-block"
     >
@@ -24,7 +24,7 @@
       Sponsor to support Anthony
     </a>
     <a
-      href="https://afdian.com/a/antfu"
+      href="https://afdian.com/a/phungmanhquang"
       target="_blank"
       class="group btn-yellow inline-block"
     >
@@ -35,5 +35,5 @@
       />
       在爱发电上支持我
     </a>
-  </p>
+  </p> -->
 </template>

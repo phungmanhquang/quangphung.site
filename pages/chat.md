@@ -1,33 +1,33 @@
 ---
-title: Let's Chat - Anthony Fu
+title: Let's Chat - Phùng Mạnh Quảng
 display: Let's Chat!
-image: https://antfu.me/og-chat.png
+image: https://quangphung.site/og-chat.png
 art: dots
 ---
 
 > [!IMPORTANT]
-> I am sorry I am currently busy on my personal changes and **NOT available for chat**. Feel free to interact with me on [Bluesky](https://bsky.app/profile/antfu.me) instead. I will be back soon! Thank you for your understanding.
+> Tôi xin lỗi, hiện tại tôi đang bận với các thay đổi cá nhân và **không khả dụng để trò chuyện**. Hãy thoải mái tương tác với tôi trên [Bluesky](https://bsky.app/profile/quangphung.site). Tôi sẽ sớm quay lại! Cảm ơn sự thông cảm của bạn.
 
 [中文 Chinese](/chat-zh)
 
-I consider myself incredibly fortunate to be involved in the open-source community, creating tools and resources that others find beneficial. I enjoy a lot doing open source, working and learning together with the fantastic community. I realize that many of you, like myself, are enthusiastic about contributing to open source projects but may be unsure where to begin. That I actually also struggled with along the way.
+Tôi tự coi mình vô cùng may mắn khi được tham gia vào cộng đồng mã nguồn mở, tạo ra các công cụ và tài nguyên mà người khác thấy hữu ích. Tôi rất thích làm mã nguồn mở, làm việc và học hỏi cùng với cộng đồng tuyệt vời. Tôi nhận ra rằng nhiều bạn, giống như tôi, rất hào hứng với việc đóng góp vào các dự án mã nguồn mở nhưng có thể không biết bắt đầu từ đâu. Điều đó thực sự cũng là điều mà tôi đã từng vật lộn trên hành trình của mình.
 
-So if you're curious about delving into open source but feel uncertain about taking the first step, or if you're already involved and have questions about your journey, I would be delighted to chat with you and share my experiences and insights to help you find your way.
+Vì vậy nếu bạn tò mò muốn tìm hiểu về mã nguồn mở nhưng cảm thấy phân vân khi chưa biết bắt đầu bước đầu tiên, hoặc nếu bạn đã tham gia và có câu hỏi về hành trình của mình, tôi rất sẵn lòng trò chuyện và chia sẻ kinh nghiệm cũng như hiểu biết của mình để giúp bạn tìm ra con đường.
 
-### Quick Chat
+### Trò chuyện nhanh
 
-I want to keep the conversation easy, open, and accessible. You can you use the link below to book a 10min chat with me. I deeply value my time, and I'm sure you do too, so I would appreciate it if you come prepared with some initial research and questions in mind. I am looking forward have a short while meaningful chat with you!
+Tôi muốn giữ cuộc trò chuyện dễ dàng, cởi mở và dễ tiếp cận. Bạn có thể sử dụng liên kết bên dưới để đặt trước một cuộc trò chuyện 10 phút với tôi. Tôi thực sự trân trọng thời gian của mình, và tôi chắc chắn bạn cũng vậy, nên tôi sẽ đánh giá cao nếu bạn đến với một số nghiên cứu ban đầu và câu hỏi trong đầu. Tôi mong chờ được có một khoảng thời gian ngắn meaningful với bạn!
 
-<CalCom link="antfu7/quick-chat" title="Book a chat" />
+<CalCom link="antfu7/quick-chat" title="Đặt lịch trò chuyện" />
 
-> Note that I might not always be able to respond immediately and can possibly miss some inquiries. Do check back if the booking becomes **accepted**, otherwise I might not have seen it yet. If I missed your inquiry, feel free to book again in another time slot.
+> Lưu ý rằng tôi có thể không luôn có thể phản hồi ngay lập tức và có thể bỏ lỡ một số yêu cầu. Hãy kiểm tra lại nếu đặt lịch được **chấp nhận**, nếu không thì tôi có thể chưa thấy nó. Nếu tôi bỏ lỡ yêu cầu của bạn, hãy thoải mái đặt lại vào thời gian khác.
 
-### Consultancy
+### Tư vấn
 
-I am fairly limited in terms of the time I have, but I understand that more complex questions or in-depth discussions may require a longer time frame. If needed, I'm happy to do an hour consultancy call to help.
+Tôi khá hạn chế về thời gian, nhưng tôi hiểu rằng những câu hỏi phức tạp hơn hoặc các cuộc thảo luận chuyên sâu có thể cần thời gian dài hơn. Nếu cần, tôi sẵn lòng thực hiện cuộc gọi tư vấn một tiếng để giúp đỡ.
 
-<CalCom link="antfu7/consult" title="Schedule a consultation" />
+<CalCom link="antfu7/consult" title="Đặt lịch tư vấn" />
 
-## Credits
+## Ghi nhận
 
-The initiative was greatly inspired and motivated by [Daniel Roe's Open invitation](https://roe.dev/blog/open-invitation).
+Sáng kiến này rất được truyền cảm hứng và động viên từ [Lời mời mở của Daniel Roe](https://roe.dev/blog/open-invitation).

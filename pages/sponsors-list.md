@@ -1,8 +1,8 @@
 ---
-title: Sponsors - Anthony Fu
+title: Sponsors - Phùng Mạnh Quảng
 display: Sponsors
 subtitle: Great thanks for all the Sponsors!
-description: Sponsors of Anthony Fu
+description: Sponsors of Phùng Mạnh Quảng
 ---
 
 <!-- @layout-full-width -->

@@ -1,6 +1,6 @@
 <template>
   <a
-    href="https://opencollective.com/antfu"
+    href="https://opencollective.com/phungmanhquang"
     target="_blank"
     class="group btn-rose text-base p2 px3 pr2"
   >
