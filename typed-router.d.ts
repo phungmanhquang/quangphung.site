@@ -73,13 +73,6 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/collective-sponsor-onetime': RouteRecordInfo<
-      '/collective-sponsor-onetime',
-      '/collective-sponsor-onetime',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
     '/demos': RouteRecordInfo<
       '/demos',
       '/demos',
@@ -122,16 +115,9 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/posts/about-yak-shaving': RouteRecordInfo<
-      '/posts/about-yak-shaving',
-      '/posts/about-yak-shaving',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/about-yak-shaving-zh': RouteRecordInfo<
-      '/posts/about-yak-shaving-zh',
-      '/posts/about-yak-shaving-zh',
+    '/posts/': RouteRecordInfo<
+      '/posts/',
+      '/posts',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -213,12 +199,6 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/collective-sponsor-onetime.md': {
-      routes:
-        | '/collective-sponsor-onetime'
-      views:
-        | never
-    }
     'pages/demos.md': {
       routes:
         | '/demos'
@@ -255,15 +235,9 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/posts/about-yak-shaving.md': {
+    'pages/posts/index.md': {
       routes:
-        | '/posts/about-yak-shaving'
-      views:
-        | never
-    }
-    'pages/posts/about-yak-shaving-zh.md': {
-      routes:
-        | '/posts/about-yak-shaving-zh'
+        | '/posts/'
       views:
         | never
     }
