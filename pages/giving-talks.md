@@ -5,7 +5,7 @@ display: ''
 
 # Giving Talks
 
-Hey! My name is [Phùng Mạnh Quảng](/). I am a fanatical open sourceror living in Tokyo. I am focusing on many areas in frontend like Vite, Vue, Nuxt, DX, CSS, etc.
+Hey! My name is [Phùng Mạnh Quảng](/). I am an open sourceror. I am focusing on many areas in frontend like Vite, Vue, Nuxt, DX, CSS, etc.
 
 [Talks I have given](/talks).
 
@@ -34,13 +34,16 @@ You can use the following information to present me:
   <div><a href="https://quangphung.site/avatar.png" target="_blank">https://quangphung.site/avatar.png</a></div>
 
   <div text-right pr2 op50 font-bold>Introduction</div>
-  <TextCopy>A fanatical open sourceror. Core team member of Vue, Nuxt and Vite. Creator of Vitest, Slidev, VueUse, UnoCSS. Working at NuxtLabs. Passionate about DX, tooling, and the OSS ecosystem.</TextCopy>
+  <!-- TODO: Cập nhật giới thiệu của bạn -->
+  <TextCopy>An open sourceror. Passionate about DX, tooling, and the OSS ecosystem.</TextCopy>
 
   <div text-right pr2 op50 font-bold>Location</div>
-  <TextCopy>Tokyo, Japan</TextCopy>
+  <!-- TODO: Cập nhật vị trí của bạn -->
+  <TextCopy>Your Location</TextCopy>
 
   <div text-right pr2 op50 font-bold>Company</div>
-  <TextCopy><a href="https://vercel.com/" target="_blank">NuxtLabs / Vercel</a></TextCopy>
+  <!-- TODO: Cập nhật công ty của bạn -->
+  <TextCopy>Your Company</TextCopy>
 
   <div text-right pr2 op50 font-bold>Website</div>
   <TextCopy><a href="https://quangphung.site" target="_blank">quangphung.site</a></TextCopy>
